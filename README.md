@@ -27,6 +27,11 @@ Run [*"sql"*](https://github.com/anaghahj/TechHub/blob/master/dbms_company%20(1)
 ```sh
       flutter run
 ```
+Here are few snapshots of the app
 
+![screenshot](mainscreen.jpeg)
+![screenshot](placements.jpeg)
+![screenshot](domains.jpeg)
+![screenshot](achievements.jpeg)
 
 
