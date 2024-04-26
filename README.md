@@ -28,10 +28,14 @@ Run [*"sql"*](https://github.com/anaghahj/TechHub/blob/master/dbms_company%20(1)
       flutter run
 ```
 Here are few snapshots of the app
-
+MAINSCREEN
 ![screenshot](mainscreen.jpeg)
+DETAILS ABOUT THE UNIVERSITY
+1:PLACEMENTS
 ![screenshot](placements.jpeg)
+2.STUDENTS PURSUING EACH DOMAIN
 ![screenshot](domains.jpeg)
+3.OTHER ACHIEVEMENTS AND COMPANIES THAT HAVE COME FOR CAMPUS DRIVES
 ![screenshot](achievements.jpeg)
 
 
