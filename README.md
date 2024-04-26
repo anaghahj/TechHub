@@ -8,7 +8,7 @@ A flutter application where universities can upload their achievements which wil
 4. Turn on the debugging mode on your mobile(preferably android device)
 
 ### Steps to run the Mobile Application
-Run [*"sql"*](https://github.com/anaghahj/TechHub/blob/master/dbms_company%20(1).sql) in mysql instance from phpmyadmin.
+Run [*"sql"*](https://github.com/anaghahj/TechHub/blob/master/dbms_company%20(1).sql) in mysql instance from phpmyadmin with all the php files of the folder [*"db"*](https://github.com/anaghahj/TechHub/tree/master/lib/db) in folder named "dbms_company" in "C:\xampp\htdocs"
 
 1. Run the following command in your desired folder
 ```sh
